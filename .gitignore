@@ -1,0 +1,7 @@
+display-switch.log
+*.log
+.xbox-mode
+.tv-mode
+.display-target
+display-switch.config.ps1
+_*.cmd
